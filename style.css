@@ -1,0 +1,24 @@
+ body{
+background-image:url(images/WATER.jpg);
+ }
+h1{
+    background-color: rgb(147, 147, 226);
+    color: aliceblue;
+    width: 640px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+  .fa:hover {
+    opacity: 0.9;
+}
+.fa-facebook {
+  color: white;
+}
